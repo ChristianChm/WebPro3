@@ -1,0 +1,39 @@
+#webDesigner{
+    padding-block: 90px;
+    background-repeat: no-repeat;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 50%);
+    color: red;
+}
+
+body {
+    background-image: url("../Img/maxresdefault.jpg");
+    text-align: center;
+    font-size: x-large;
+    color: white;
+    white-space: pre-line;
+}
+
+footer{
+    background-color: gray;
+}
+
+nav{
+    background-color: rgba(0, 0, 0, 50%);
+}
+
+a{
+    color:crimson;
+}
+
+a:hover{
+    color: blue;
+}
+
+a:active{
+    color: blueviolet;
+}
+
+header:any-link{
+    text-align: horizontal center;
+}
